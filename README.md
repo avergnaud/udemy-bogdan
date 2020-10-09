@@ -1,5 +1,4 @@
 # udemy-bogdan
 
 
-This line was modified locally
-
+This line was modified during conflict resol.
